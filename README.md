@@ -25,7 +25,7 @@ Le Mini PC constitue la base de l’infrastructure. Il héberge les services ess
 Il exécute principalement :
 
 * Les services réseau critiques (selon configuration actuelle)
-* La stack multimédia (Jellyfin et services associés) temporairement, le temps d'avoir une vraie solumtion NAS
+* La stack multimédia (Jellyfin et services associés) temporairement, le temps d'avoir une vraie solution NAS
 
 
 
